@@ -1,3 +1,6 @@
+## Certificado de Conclusão
+![Ignite](https://user-images.githubusercontent.com/76044304/212957827-633c3c9a-6ef7-48e7-9d49-8969dd384793.png)
+
 <img alt="ignite-reactjs" title="ignite-reactjs" src=".github/cover-reactjs.png">
 
 <h1 align="center">
